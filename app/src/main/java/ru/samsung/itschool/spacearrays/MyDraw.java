@@ -17,6 +17,7 @@ public class MyDraw extends View {
 
 	Rocket rocket = new Rocket(300f, 300f, 2f, 2f, rocketImage);
 	Rocket rocket2 = new Rocket(300f, 1000f, 1f, -2f, rocketImage);
+	Rocket rocket3 = new Rocket(300f, 10f, 1f, 2f, rocketImage);
 	Sky sky = new Sky();
 
 
@@ -41,9 +42,10 @@ public class MyDraw extends View {
 
 		rocket.draw(canvas);
 		rocket2.draw(canvas);
-
+		rocket3.draw(canvas);
 		rocket.move();
 		rocket2.move();
+		rocket3.move();
 		for (int i = 0; i < rockets.length; i++){
 			rockets[i].draw(canvas);
 			rockets[i].move();
