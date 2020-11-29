@@ -20,7 +20,27 @@
         "source": "C:\\Apps\\SpaceArrays\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\Apps\\SpaceArrays\\app\\build\\intermediates\\res\\merged\\debug\\layout_try2.xml.flat",
+        "source": "C:\\Apps\\SpaceArrays\\app\\src\\main\\res\\layout\\try2.xml"
+    },
+    {
+        "merged": "C:\\Apps\\SpaceArrays\\app\\build\\intermediates\\res\\merged\\debug\\layout_test.xml.flat",
+        "source": "C:\\Apps\\SpaceArrays\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "C:\\Apps\\SpaceArrays\\app\\build\\intermediates\\res\\merged\\debug\\layout_try1.xml.flat",
+        "source": "C:\\Apps\\SpaceArrays\\app\\src\\main\\res\\layout\\try1.xml"
+    },
+    {
         "merged": "C:\\Apps\\SpaceArrays\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "C:\\Apps\\SpaceArrays\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Apps\\SpaceArrays\\app\\build\\intermediates\\res\\merged\\debug\\drawable_meteor.png.flat",
+        "source": "C:\\Apps\\SpaceArrays\\app\\src\\main\\res\\drawable\\meteor.png"
+    },
+    {
+        "merged": "C:\\Apps\\SpaceArrays\\app\\build\\intermediates\\res\\merged\\debug\\layout_wrwe.xml.flat",
+        "source": "C:\\Apps\\SpaceArrays\\app\\src\\main\\res\\layout\\wrwe.xml"
     }
 ]

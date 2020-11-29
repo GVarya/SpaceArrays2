@@ -4,7 +4,7 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 
-public class Sky {
+public class Sky implements Drawable{
     int numStars = 500;
 
     int xStar[] = new int[numStars];
@@ -25,7 +25,7 @@ public class Sky {
         }
     }
 
-    void draw(Canvas canvas) {
+    public void draw(Canvas canvas) {
         canvas.drawColor(Color.BLACK);
         paint.setColor(Color.YELLOW);
         paint.setStrokeWidth(2);
